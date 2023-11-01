@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "categoryName": "Quran Telowat",
+      "quranTelowat": [
+        {
+          "title": "Python Django Web Development",
+          "link": "https://www.youtube.com/watch?v=xxxxxx"
+        },
+        {
+          "title": "Python Django Web Development",
+          "link": "https://www.youtube.com/watch?v=xxxxxx"
+        },
+        {
+          "title": "Python Django Web Development",
+          "link": "https://www.youtube.com/watch?v=xxxxxx"
+        },
+        {
+          "title": "Python Django Web Development",
+          "link": "https://www.youtube.com/watch?v=xxxxxx"
+        },
+        {
+          "title": "Python Django Web Development",
+          "link": "https://www.youtube.com/watch?v=xxxxxx"
+        },
+        {
+          "title": "Python Django Web Development",
+          "link": "https://www.youtube.com/watch?v=xxxxxx"
+        },
+        {
+          "title": "JavaScript Fundamentals",
+          "link": "https://www.youtube.com/watch?v=yyyyyy"
+        }
+      ]
+    },
+    {
+      "categoryName": "Allah Names",
+      "allahNames": [
+        {
+          "title": "React Crash Course",
+          "link": "https://www.youtube.com/watch?v=zzzzzz"
+        },
+        {
+          "title": "HTML and CSS Basics",
+          "link": "https://www.youtube.com/watch?v=wwwwww"
+        }
+      ]
+    },
+    {
+      "categoryName": "Bootstrap Framework",
+      "videos": [
+        {
+          "title": "Bootstrap 5 Tutorial",
+          "link": "https://www.youtube.com/watch?v=vvvvvv"
+        },
+        {
+          "title": "Creating Responsive Websites",
+          "link": "https://www.youtube.com/watch?v=uuuuuu"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
