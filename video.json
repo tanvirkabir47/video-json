@@ -68,15 +68,15 @@
       ]
     },
     {
-      "categoryName": "Bootstrap Framework",
-      "videos": [
+      "categoryName": "Nobi Biography",
+      "nobibiography": [
         {
-          "title": "Bootstrap 5 Tutorial",
-          "link": "https://www.youtube.com/watch?v=vvvvvv"
+          "title": "মুহাম্মদ (সাঃ)-এর সারা জীবন!! (সকল পর্ব একত্রে)।",
+          "link": "https://www.youtube.com/embed/bV1H56LSr7A"
         },
         {
-          "title": "Creating Responsive Websites",
-          "link": "https://www.youtube.com/watch?v=uuuuuu"
+          "title": "রাসুল (সাঃ) এর জীবনী । জুমার খুতবা |",
+          "link": "https://www.youtube.com/embed/f_FGuxlZHTM"
         }
       ]
     }
